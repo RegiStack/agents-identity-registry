@@ -1,6 +1,6 @@
-# Registack Agent Identity Hub
+# Registack Agent Identity Registry
 
-Registack Agent Identity Hub is a limited public repository for a narrow thesis:
+Registack Agent Identity Registry is a limited public repository for a narrow thesis:
 autonomous agents cannot be governed safely through policy, scanning, and
 runtime monitoring alone. Those approaches may observe, restrict, or evaluate
 activity, but they do not by themselves establish what an agent is as a
